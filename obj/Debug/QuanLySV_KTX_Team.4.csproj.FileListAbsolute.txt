@@ -1,0 +1,15 @@
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\bin\Debug\QuanLySV_KTX.exe.config
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\bin\Debug\QuanLySV_KTX.exe
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\bin\Debug\QuanLySV_KTX.pdb
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX_Team.4.csproj.AssemblyReference.cache
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX_Team.4.csproj.SuggestedBindingRedirects.cache
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.frmDangNhap.resources
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.Properties.Resources.resources
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX_Team.4.csproj.GenerateResource.cache
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX_Team.4.csproj.CoreCompileInputs.cache
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.exe
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.pdb
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.NgocHuy.frmTrangChu_QTHT.resources
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.NgocHuy.frmDangKy.resources
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.NgocHuy.frmTrangChu_QLKTX.resources
+D:\Subjects\PTTK_HTTT\Bai_Tap_Lon\BTL_QuanLySV_KTX\QuanLySV_KTX\obj\Debug\QuanLySV_KTX.NgocHuy.frmTrangChuQLSV.resources
